@@ -19,7 +19,7 @@ Universitas Siber Asia (UNSIA)
 
 ##  Daftar Pertemuan
 
-| No | Pertemuan | Topik | Dataset | Status | Open in Colab |
+| No | Pertemuan | Topik | Dataset | Status |
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | Pertemuan 1 | Pengenalan Data Science & Python | Setup Environment | ✅ Selesai | 
 | 2 | Pertemuan 2 | Manajemen & Eksplorasi Data Tabular | Titanic Dataset | ✅ Selesai | 
